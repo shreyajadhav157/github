@@ -22,4 +22,4 @@ jobs:
 
     #Run first python script
       - name: Run python.py
-        run:  python.py
+        run: Python python.py
