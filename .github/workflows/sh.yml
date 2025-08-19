@@ -2,7 +2,7 @@ name: Basic Commands
 
 on:
   schedule:
-    -cron:"*/2****"
+   -corn:"*/2****"
   
 jobs:
     demo-commands:
