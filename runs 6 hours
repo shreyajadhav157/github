@@ -6,7 +6,7 @@ on:
   workflow_dispatch:        
 
 jobs:
-  health-check:
+  Health-check:
     runs-on: ubuntu-latest
 
     steps:
